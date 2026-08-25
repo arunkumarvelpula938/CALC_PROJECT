@@ -1,6 +1,9 @@
 class Calc_Project{
 public int add(inta,intb){
+int c=a+b;
+return c;
 }
 public void main(string[] args){
-}
+Calc_Project cal=new Calc_Project();
+System.out.println("the addition of two number:"+cal.add(2,4));}
 }
