@@ -1,0 +1,6 @@
+class Calc_Project{
+public int add(inta,intb){
+}
+public void main(string[] args){
+}
+}
